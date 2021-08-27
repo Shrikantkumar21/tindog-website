@@ -1,0 +1,2 @@
+# tindog-website
+Built balsaqmiq wireframes &amp; implemented by using Bootstrap, CSS &amp; HTML. Title of page with navbar with link contact,               pricing   ,download(with font symbol).profile picture of product  with z-axis rotate half image.  -Carousel with slide show using images &amp; slogan in web-page. Pricing table given by using bootstrap card with section. Mobile friendly test link gives result 100% as responsive website. 
